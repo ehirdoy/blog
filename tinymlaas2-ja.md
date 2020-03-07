@@ -1,7 +1,5 @@
 ---
-caption: 'Figure 2: The Machine Learning ecosystem is big and resource demanding'
 title: 'TinyML as-a-Service, エッジ機械学習の課題'
-urlcolor: blue
 ---
 
 -   [TinyML as-a-Service,

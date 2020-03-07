@@ -1,7 +1,5 @@
 ---
-caption: 'Figure 1: The overlapping of technological areas and enablers'
 title: 'TinyML as-a-Serviceとは？ IoT Edgeに対してどのような意味を持つのか？'
-urlcolor: blue
 ---
 
 -   [TinyML as-a-Serviceとは？ IoT
